@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **[UberJets](https://flyuberjets.com)**
 
-- 📫 How to reach me: **[graham@grahambillington.com](mailto:graham@grahambillington.com)**
+- 📫 Reach me at **[graham@grahambillington.com](mailto:graham@grahambillington.com)**
 
 - ⚡ Fun fact: I have over 100,000 followers on TikTok! **[Check out my profile](https://tiktok.com/@grahambillington)**
 
