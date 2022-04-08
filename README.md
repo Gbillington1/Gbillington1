@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Graham Billington</h1>
 <h3 align="center">I'm a student, developer, and technology influencer!</h3>
 
-- 🔭 I’m currently working at [UberJets](https://flyuberjets.com)
+- 🔭 I’m currently working at **[UberJets](https://flyuberjets.com)**
 
 - 📫 How to reach me: **[graham@grahambillington.com](mailto:graham@grahambillington.com)**
 
-- ⚡ Fun fact: I have over 100,000 followers on TikTok! [Check out my profile](https://tiktok.com/@grahambillington)
+- ⚡ Fun fact: I have over 100,000 followers on TikTok! **[Check out my profile](https://tiktok.com/@grahambillington)**
 
 
 <h1 align="center">My Skills</h1>
