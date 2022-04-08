@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **[UberJets](https://flyuberjets.com)**
 
-- 🤝 I’m looking for help with **[OneLine](https://github.com/gbillington1/oneline-chrome-extension)**
+- 🤝 I’m looking for help with **[OneLine](https://github.com/gbillington1/oneline-chrome-extension/tree/v2.0)**
 
 - 📫 Reach me at **[graham@grahambillington.com](mailto:graham@grahambillington.com)**
 
