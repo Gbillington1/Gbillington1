@@ -42,6 +42,6 @@
     
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gbillington1&show_icons=true&count_private=true&custom_title=My Github Stats&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gbillington1&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&hide=contribs" />
 </div>
 
